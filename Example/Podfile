@@ -1,0 +1,6 @@
+use_frameworks!
+target 'mj-test-lib_Tests' do
+  pod 'mj-test-lib', :path => '../'
+  
+  
+end
